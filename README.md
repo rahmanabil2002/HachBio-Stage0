@@ -32,3 +32,4 @@ Transcriptomics provides thorough insights into gene expression in a variety of 
 3\.	Gosch, A. *et al.* Spitting in the wind?—The challenges of RNA sequencing for biomarker discovery from saliva. *Int J Legal Med* **138**, 401–412 (2024).  
 4\.	Wajnberg, G. *et al.* Application of annotation-agnostic RNA sequencing data analysis tools for biomarker discovery in liquid biopsy. *Frontiers in Bioinformatics* **3**, 1127661 (2023).  
  
+ 
