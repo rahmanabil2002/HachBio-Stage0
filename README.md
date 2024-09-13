@@ -1,4 +1,4 @@
-# HachBio-Stage0
+# HackBio-Stage0
 ### **Transcriptomics: A Basic Introduction**
 
 Authors (@slack): Rahma Nabil (@rahmanabil2002)  
